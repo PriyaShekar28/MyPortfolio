@@ -67,7 +67,7 @@
 
 .section-1 {
 	background-color: rgba(192,192,192,0.3);;
-    background-image:url(../images/image2.jpg);
+    background-image:url(../images/images/image2.jpg);
 	background-size: cover;
     height: 450px;
     padding: 0px;
@@ -80,7 +80,7 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(../images/profile-image.jpg);
+    background-image: url(../images/images/profile-image.jpg);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
