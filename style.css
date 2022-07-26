@@ -53,7 +53,6 @@
     }
 }
 
-/* MAIN */
 
 .main {
     font-family: 'Roboto Slab', serif;
@@ -61,11 +60,9 @@
     font-size: 16px;
 }
 
-/* SECTION NO 1 */
-
 .section-1 {
 	background-color: rgba(192,192,192,0.3);;
-    background-image:url(../images/images/image2.jpg);
+    background-image:url(./images/images/image2.jpg);
 	background-size: cover;
     height: 450px;
     padding: 0px;
@@ -78,7 +75,7 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(../images/images/profile-image.jpg);
+    background-image: url(./images/images/profile-image.jpg);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
@@ -225,7 +222,6 @@
     }
 }
 
-/* SECTION NO 3 */
 
 .section-3 {
     font-family: 'Roboto Slab', serif;
@@ -776,8 +772,6 @@
     }
 }
 
-/* SECTION NO 6 */
-
 .section-6 {
     padding: 70px 0px 100px 0px;
 }
@@ -909,8 +903,6 @@
     }
 }
 
-/* CONTACT */
-
 .contact-heading {
     font-size: 62px;
     font-weight: bold;
@@ -971,7 +963,7 @@
 
 .contact-image {
     background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
-        url(../images/Contact-image-1.jpg);
+        url(./images/images/Contact-image-1.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -1063,11 +1055,9 @@
     }
 }
 
-/* SECTION NO 7 */
-
 .section-7 {
     padding: 170px 0px 170px 0px;
-    background-image: url(../images/footer-img.jpg);
+    background-image: url(./images/images/footer-img.jpg);
     background-position: top;
     background-size: cover;
     position: relative;
@@ -1162,8 +1152,6 @@
         padding-top: 60px;
     }
 }
-
-/* FOOTER */
 
 .footer {
     padding: 50px 50px 30px 50px !important;
